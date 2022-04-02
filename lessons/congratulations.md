@@ -4,7 +4,7 @@ Que jornada, hein?
 
 Espero que tenha gostado do curso tanto quanto gostei de te ensinar.
 
-Neste mesmo [repositório](https://github.com/wlsf82/cypress-basico-v2), você encontrará soluções para cada exercício em [_branches_ específicos](https://github.com/wlsf82/cypress-basico-v2/branches), cada um com seus [_commits_](https://github.com/wlsf82/cypress-basico-v2/commits/aula-12), caso queira consultar.
+Neste mesmo [repositório](https://github.com/wlsf82/cypress-basico-v2), você encontrará soluções para cada exercício em [_branches_ específicos](https://github.com/wlsf82/cypress-basico-v2/branches), cada um com seus [_commits_](https://github.com/wlsf82/cypress-basico-v2/commits/main), caso queira consultar.
 
 Vamos recapitular o que você aprendeu?
 
